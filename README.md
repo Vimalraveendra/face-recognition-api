@@ -1,13 +1,13 @@
 # face-recognition-api
 Face recognition App
 
-Clone this repo
+1.Clone this repo
 
-Run npm install
+2.Run npm install
 
-Run npm start
+3.Run npm start
 
-You must add your own API key in the controllers/image.js file to connect to Clarifai API.
+4.You must add your own API key in the controllers/image.js file to connect to Clarifai API.
 
 
 ** Make sure you use postgreSQL instead of mySQL for this code base.
