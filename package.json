@@ -13,12 +13,19 @@
     "nodemon": "^1.18.4"
   },
   "dependencies": {
+    "axios": ">=0.18.1",
     "bcrypt-nodejs": "0.0.3",
     "body-parser": "^1.18.3",
     "clarifai": "^2.8.1",
     "cors": "^2.8.4",
+    "dot-prop": ">=5.1.1",
+    "event-stream": ">=4.0.0",
     "express": "^4.16.3",
+    "kind-of": ">=6.0.3",
     "knex": "^0.19.5",
-    "pg": "^7.5.0"
+    "minimist": ">=1.2.3",
+    "mixin-deep": "^2.0.1",
+    "pg": "^7.5.0",
+    "set-value": "^3.0.2"
   }
 }
